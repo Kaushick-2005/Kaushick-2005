@@ -2,7 +2,7 @@
 - 👀 I’m interested in both front end and back end developing.
 - 🌱 I’m currently learning B-TECH [INFORMATION TECHNOLOGY]
 - 💞️ I’m looking to collaborate on good team with trusted companies.
-- 😄 Pronouns: KAUSHICK KUMAR 
+- 😄 Pronouns: HE
 - ⚡ Fun fact: Nothing can't to be change, until if you changed that.
 
 <!---
