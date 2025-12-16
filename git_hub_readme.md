@@ -34,15 +34,15 @@ A motivated **Engineering Student** with **basic knowledge of Cloud Computing an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushick-2005&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushick-2005&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-- 📧 **Email:** your.email@example.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kaushick-kumar-s
+- 📧 **Email:** kaushickkumar07@gmail.com
 
 ---
 
@@ -52,7 +52,6 @@ I'm always open to:
 - Learning opportunities
 - Innovative project collaborations
 
-If you like my work, consider ⭐ starring my repositories!
 
 ---
 
